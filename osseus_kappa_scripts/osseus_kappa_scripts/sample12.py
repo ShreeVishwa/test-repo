@@ -1,4 +1,4 @@
-class Sample11Processor(DataProcessor):
+class Sample12Processor(DataProcessor):
   
   def print_world():
     print("hello world 6")
