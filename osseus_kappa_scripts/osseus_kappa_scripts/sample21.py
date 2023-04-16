@@ -1,3 +1,3 @@
 class Sample21Processor():
   def hello_world():
-    print("Hello world part 1")
+    print("Hello world part 2")
